@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_DALS.MainPage">
+
+    <StackLayout Padding="20" BackgroundColor="Gray">
+        <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="Center">
+
+                <Label Text="#1"
+                        TextColor="White"
+                        FontAttributes="Bold"
+                        VerticalOptions="Center"
+                        />
+
+                <Entry 
+                        PlaceholderColor="White"
+                        Placeholder="Escribe un numero"
+                        HorizontalOptions="StartAndExpand"
+                        Text="{Binding N1}"
+                        Keyboard="Numeric"
+                        />
+
+                <Entry x:Name="Numero2" 
+                        Keyboard="Numeric" 
+                        Margin="0,5"/>
+        </StackLayout>
+            
+            
+        <StackLayout Orientation="Horizontal"
+                HorizontalOptions="Center">
+
+                <Label Text="#2:"
+                        TextColor="White"
+                        FontAttributes="Bold"
+                        VerticalOptions="Center"/>
+
+                <Entry 
+                        PlaceholderColor="White"
+                        Placeholder="Escriba un numero"
+                        HorizontalOptions="StartAndExpand"
+                        Text="{Binding N2}"
+                        Keyboard="Numeric"/>
+        </StackLayout>
+
+        <Button Text="Sumar" 
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Command="{Binding Sumarcommand}"
+                TextTransform="None"
+                Background="DarkGray"
+                FontAttributes="Bold"
+                CornerRadius="5"
+                TextColor="White"/>
+            
+        <Button Text="Restar" 
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Command="{Binding Restarrcommand}"
+                TextTransform="None"
+                Background="DarkGray"
+                FontAttributes="Bold"
+                CornerRadius="5"
+                TextColor="White"/>
+            
+        <Button Text="Multiplicar" 
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Command="{Binding Multiplicarcommand}"
+                TextTransform="None"
+                Background="DarkGray"
+                FontAttributes="Bold"
+                CornerRadius="5"
+                TextColor="White"/>
+
+        <Button Text="Dividir" 
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Command="{Binding Dividircommand}"
+                TextTransform="None"
+                Background="DarkGray"
+                FontAttributes="Bold"
+                CornerRadius="5"
+                TextColor="White"/>
+
+        <Label Text="{Binding R}"
+                TextColor="White"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                FontSize="35"/>
+
+    </StackLayout>
+
+</ContentPage>

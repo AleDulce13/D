@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8lv9kvFYQA4fUpYN0DreFAiyqYvyTU9Q43XlCxGsT0SpM2o0XfJZ6v7hm/U2MnWVoDYS0CKxWox3X+B6wA1Mog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CD03\\Desktop\\Calculadora_DALS\\Calculadora_DALS\\Calculadora_DALS.iOS\\Calculadora_DALS.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CD03\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\CD03\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\CD03\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

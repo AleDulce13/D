@@ -1,0 +1,15 @@
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\Calculadora_DALS.csproj.AssemblyReference.cache
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\Calculadora_DALS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\Calculadora_DALS.AssemblyInfoInputs.cache
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\Calculadora_DALS.AssemblyInfo.cs
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\Calculadora_DALS.csproj.CoreCompileInputs.cache
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\bin\Debug\netstandard2.0\Calculadora_DALS.deps.json
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\bin\Debug\netstandard2.0\Calculadora_DALS.dll
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\bin\Debug\netstandard2.0\ref\Calculadora_DALS.dll
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\bin\Debug\netstandard2.0\Calculadora_DALS.pdb
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\Calculadora_DALS.dll
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\refint\Calculadora_DALS.dll
+C:\Users\CD03\Desktop\Calculadora_DALS\Calculadora_DALS\Calculadora_DALS\obj\Debug\netstandard2.0\Calculadora_DALS.pdb
